@@ -16,3 +16,4 @@ if [ $? -eq 0 ]; then
 else
     echo "Failed to fetch StarkNet data."
 fi
+ 
